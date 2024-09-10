@@ -1,0 +1,19 @@
+{
+  "list": [
+    {
+      "name":"GoCompilerAp",
+      "url":"https://github.com/taha-cmyk/GoCompilerApi",
+      "desc":"This API allows you to compile and run Go code directly from your application. It's designed to be simple and easy to use, making it perfect for educational purposes, code testing, or any other scenario where you need to execute Go code dynamically."
+    },
+    {
+      "name":"esh",
+      "url":"https://github.com/taha-cmyk/esh",
+      "desc":"esh is a lightweight, flexible scripting tool designed for task automation across platforms. It enables developers to define functions in a .esh file and execute them in their development environment, similar to how Makefiles work. esh is versatile, allowing you to create reusable scripts that work seamlessly on both Windows and Unix-based systems (Linux/Mac)."
+    },
+    {
+      "name":"NodeAPi",
+      "url":"https://github.com/taha-cmyk/_nodeApi",
+      "desc":"micro framework built with Ts"
+    }
+  ]
+}

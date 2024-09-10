@@ -1,0 +1,31 @@
+baseURL = 'https://localhost:1313/'
+languageCode = 'en-us'
+title = 'Taha Portfolio'
+theme = "cactus"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 4
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
+
+[[params.social]]
+  name = "github"
+  link = "https://github.com/taha-cmyk"
+
+[[params.social]]
+  name = "email"
+  link = "elkarroumytaha@gmail.com" # no need for "mailto:" at the start
+
+
+copyright = "Taha Elkarroumy"
+
