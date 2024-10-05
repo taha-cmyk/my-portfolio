@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://deluxe-crumble-41c8b2.netlify.app'
 languageCode = 'en-us'
 title = 'Taha Portfolio'
 theme = "cactus"
